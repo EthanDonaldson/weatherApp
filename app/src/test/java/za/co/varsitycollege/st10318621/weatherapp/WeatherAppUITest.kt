@@ -1,5 +1,5 @@
 package za.co.varsitycollege.st10318621.weatherapp
-//Comment
+//Comment for committing
 import org.junit.Test
 import org.junit.Assert.*
 
